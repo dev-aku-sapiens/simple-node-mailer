@@ -47,6 +47,8 @@ async function sendEmail(mailOptions) {
   }
 }
 
+const emails = ['raj1711dell@gmail.com', 'rajkumar@seminal.one'];
+
 recipients.forEach(async (recipient) => {
   // Mark function as async
   if (recipient.initiate) {
@@ -60,7 +62,7 @@ recipients.forEach(async (recipient) => {
         html: htmlContent,
         subject: recipient.subject,
         from: process.env.EMAIL_USER,
-        to: 'raj1711dell@gmail.com', // Use a variable for test email
+        to: emails, // Use the emails field from the JSON
       };
 
       await sendEmail(mailOptions); // Wait for the email to be sent
