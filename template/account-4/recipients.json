@@ -1,0 +1,69 @@
+[
+  {
+    "initiate": true,
+    "template": "artist-3-days-reminder.html",
+    "subject": "artist-3-days-reminder",
+    "data": {
+      "FirstName": "Gopika",
+      "PageName": "Fly away",
+      "Content": "artist-3-days-reminder",
+      "SubmitDocument": "https://www.develop.seminal.one/dashboard/overview",
+      "SeminalHome": "https://www.develop.seminal.one/dashboard/overview"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "artist-7-days-reminder.html",
+    "subject": "artist-7-days-reminder",
+    "data": {
+      "FirstName": "Gopika",
+      "PageName": "Fly away",
+      "Content": "artist-7-days-reminder",
+      "SubmitDocument": "https://www.develop.seminal.one/dashboard/overview",
+      "SeminalHome": "https://www.develop.seminal.one/dashboard/overview"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "artist-page-insuff-documents.html",
+    "subject": "artist-page-insuff-documents",
+    "data": {
+      "FirstName": "Gopika",
+      "PageName": "Fly away",
+      "Content": "artist-page-insuff-documents",
+      "SubmitDocument": "https://www.develop.seminal.one/dashboard/overview",
+      "SeminalHome": "https://www.develop.seminal.one/dashboard/overview"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "artist-page-rejected.html",
+    "subject": "artist-page-rejected",
+    "data": {
+      "FirstName": "Gopika",
+      "PageName": "Fly away",
+      "Content": "artist-page-rejected",
+      "SeminalHome": "https://www.develop.seminal.one/dashboard/overview"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "artist-page-approved.html",
+    "subject": "artist-page-approved",
+    "data": {
+      "FirstName": "Gopika",
+      "PageName": "Fly away",
+      "SeminalHome": "https://www.develop.seminal.one/dashboard/overview"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "artist-page-created.html",
+    "subject": "artist-page-created",
+    "data": {
+      "PageName": "Fly away",
+      "GetStarted": "https://www.develop.seminal.one/dashboard/overview",
+      "SeminalHome": "https://www.develop.seminal.one/dashboard/overview"
+    }
+  }
+]

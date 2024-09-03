@@ -1,0 +1,111 @@
+[
+  {
+    "initiate": true,
+    "template": "3-days-kyb.html",
+    "subject": "3 days kyb",
+    "data": {
+      "FirstName": "AKU",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "7-days-kyb.html",
+    "subject": "7 days kyb",
+    "data": {
+      "FirstName": "AKU",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "after-3-days.html",
+    "subject": "after 3 days",
+    "data": {
+      "FirstName": "AKU",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "after-7-days.html",
+    "subject": "after 7 days",
+    "data": {
+      "FirstName": "AKU",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "kyb-approved.html",
+    "subject": "kyb approved",
+    "data": {
+      "FirstName": "AKU",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "kyb-insufficent-documents.html",
+    "subject": "kyb insufficent documents",
+    "data": {
+      "EntityName": "AKU",
+      "Reason": "SUMMA",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "kyb-rejected.html",
+    "subject": "kyb rejected",
+    "data": {
+      "FirstName": "AKU",
+      "Reason": "SUMMA",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "kyc-approved.html",
+    "subject": "kyc approved",
+    "data": {
+      "FirstName": "AKU",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "kyc-insufficent-documents.html",
+    "subject": "kyc insufficent documents",
+    "data": {
+      "EntityName": "AKU",
+      "Reason": "SUMMA",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "kyc-rejected.html",
+    "subject": "kyc rejected",
+    "data": {
+      "FirstName": "AKU",
+      "Reason": "SUMMA",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "verify.html",
+    "subject": "verify",
+    "data": {
+      "VerifyEmail": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  }
+]

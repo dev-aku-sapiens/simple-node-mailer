@@ -1,0 +1,76 @@
+[
+  {
+    "initiate": true,
+    "template": "artist-page-claimed.html",
+    "subject": "Artist Page Claimed",
+    "data": {
+      "ArtistPageName": "AKU",
+      "IndividualName": "Adhavakkannan",
+      "SeminalHome": "https://develop.seminal.one/",
+      "PublishAssets": "https://develop.seminal.one/",
+      "ArtistAvatar": "https://picsum.photos/200/300"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "activate-your-account.html",
+    "subject": "Activate Your Account",
+    "data": {
+      "FirstName": "Adhavakkannan",
+      "SeminalHome": "https://develop.seminal.one/",
+      "ActivateAccount": "https://picsum.photos/200/300"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "artist-page-created.html",
+    "subject": "Artist Page Created",
+    "data": {
+      "ArtistPageName": "AKU",
+      "IndividualName": "Adhavakkannan",
+      "SeminalHome": "https://develop.seminal.one/",
+      "PublishAssets": "https://www.youtube.com/watch?v=pdfxJLJN-qU",
+      "ArtistAvatar": "https://picsum.photos/200/300"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "identity-verification-complete.html",
+    "subject": "Identity Verification Complete",
+    "data": {
+      "LegalName": "Adhavakkannan",
+      "SeminalHome": "https://develop.seminal.one/",
+      "DocumentList": ["1.Products", "2.Relationship", "3.Maps", "4.Sugar"]
+    }
+  },
+  {
+    "initiate": true,
+    "template": "identity-verification-pending.html",
+    "subject": "Identity Verification Pending",
+    "data": {
+      "UserName": "adhavakkannan",
+      "VerifyNow": "https://polygonscan.com/address/0x1906DdA53cA1BBEa40B2AEa7E1a6b4cA9aB8e1c0",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "verify-email-address.html",
+    "subject": "Verify Email Address",
+    "data": {
+      "VerifyEmail": "https://polygonscan.com/address/0x1906DdA53cA1BBEa40B2AEa7E1a6b4cA9aB8e1c0",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "wallet-created-success.html",
+    "subject": "Wallet Created Success",
+    "data": {
+      "FullName": "AKU",
+      "SeminalHome": "https://develop.seminal.one/",
+      "WalletAddress": "0x1906DdA53cA1BBEa40B2AEa7E1a6b4cA9aB8e1c0",
+      "WalletUrl": "https://polygonscan.com/address/0x1906DdA53cA1BBEa40B2AEa7E1a6b4cA9aB8e1c0"
+    }
+  }
+]

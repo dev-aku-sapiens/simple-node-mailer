@@ -1,0 +1,86 @@
+[
+  {
+    "initiate": false,
+    "template": "3-days.html",
+    "subject": "3 days kyb",
+    "data": {
+      "CompanyName": "cakes and bakes",
+      "FirstName": "AKU",
+      "Content": "ABC XYZ",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "7-days.html",
+    "subject": "7 days kyb",
+    "data": {
+      "CompanyName": "cakes and bakes",
+      "FirstName": "AKU",
+      "Content": "ABC XYZ",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "company-welcome-email.html",
+    "subject": "company welcome email",
+    "data": {
+      "CompanyName": "cakes and bakes",
+      "DigitalAddress": "1276653483764jvhsdvja",
+      "GetStarted": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-approved.html",
+    "subject": "kyb approved",
+    "data": {
+      "CompanyName": "cakes and bakes",
+      "FirstName": "AKU",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-insufficent-documents.html",
+    "subject": "kyb insufficeient document",
+    "data": {
+      "CompanyName": "cakes and bakes",
+      "FirstName": "AKU",
+      "Content": "ABC XYZ",
+      "SubmitDocument": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-rejected.html",
+    "subject": "kyb rejected",
+    "data": {
+      "CompanyName": "cakes and bakes",
+      "FirstName": "AKU",
+      "Content": "ABC XYZ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "admin-invite-user.html",
+    "subject": "Invite User",
+    "data": {
+      "RecipientName": "Rajkumar",
+      "BatchConflicts": "Claimed",
+      "TotalAssets": "10",
+      "NewAssets": "20",
+      "DirectMatchedAssets": "5",
+      "IpDetectedAssets": "4",
+      "ClaimedAssets": "2",
+      "ViewBatchURL": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  }
+]

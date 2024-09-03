@@ -1,0 +1,146 @@
+[
+  {
+    "initiate": false,
+    "template": "kyb-3-days.html",
+    "subject": "kyb 3 days",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SubmitDocuments": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-7-days.html",
+    "subject": "kyb 7 days",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SubmitDocuments": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-approved.html",
+    "subject": "kyb approved",
+    "data": {
+      "FirstName": "AKU",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-insuff-documents.html",
+    "subject": "kyb insuff documents",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SubmitDocuments": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyb-rejected.html",
+    "subject": "kyb rejected",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-after-3-days-complete.html",
+    "subject": "kyc after 3 days complete",
+    "data": {
+      "FirstName": "AKU",
+      "CompleteVerification": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-after-3-days-documents.html",
+    "subject": "kyc after 3 days documents",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SubmitDocuments": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-after-7-days-complete.html",
+    "subject": "kyc after 7 days complete",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Check Reason",
+      "SubmitDocuments": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-after-7-days-pending.html",
+    "subject": "kyc after 7 days pending",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "CompleteVerification": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-approved.html",
+    "subject": "kyc approved",
+    "data": {
+      "FirstName": "AKU",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-insuff-documents.html",
+    "subject": "kyc insuff documents",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SubmitDocuments": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "kyc-rejected.html",
+    "subject": "kyc rejected",
+    "data": {
+      "FirstName": "AKU",
+      "Content": "Uploaded documents are not sufficient",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  },
+  {
+    "initiate": true,
+    "template": "welcome-email.html",
+    "subject": "welcome email",
+    "data": {
+      "WalletAddress": "AKjgthghfa6547687sdfU",
+      "SeminalHome": "https://develop.seminal.one/",
+      "GetStarted": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ"
+    }
+  },
+  {
+    "initiate": false,
+    "template": "verify-email.html",
+    "subject": "verify email",
+    "data": {
+      "VerifyEmail": "https://www.youtube.com/watch?v=DD_Ef31Z4zQ",
+      "SeminalHome": "https://develop.seminal.one/"
+    }
+  }
+]
